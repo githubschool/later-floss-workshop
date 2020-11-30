@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+This cheese looks good to a hungry, cheddar-mining mouse!
 
 ![minertocat](https://octodex.github.com/images/minertocat.png)
 {: .center}
